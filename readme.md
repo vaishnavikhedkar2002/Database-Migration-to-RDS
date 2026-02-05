@@ -16,7 +16,7 @@ This project demonstrates the complete migration of a MySQL database named myntr
 
 ## **Architecture**
 
-![alt text](<rds/WhatsApp Image 2026-02-04 at 11.17.44 AM.jpeg>)
+![alt text](<rds/image.jpeg>)
 
 ## **AWS Services Used**
 
